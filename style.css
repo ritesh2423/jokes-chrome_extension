@@ -1,0 +1,13 @@
+body {
+    width: 280px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    display: inner-flex;
+    margin: auto 10px;
+    font-size: 22px;
+    padding: 10px;
+}
